@@ -12,4 +12,5 @@ public class LaunchApplication {
         System.out.println(Driver.getPageSource());
         Driver.close();
     }
+    int x = 4;
 }
